@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Israh Theme for Jekyll
 
-You can use the [editor on GitHub](https://github.com/NOK8/NOK8.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Israh is a responsive Jekyll theme with warm greys, a single column layout, and not much else.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This theme is an evolution of my [Ezora jekyll theme](https://github.com/ezrasavard/ezora-jekyll-theme) that reflects my own changing tastes.
+Most notably, Israh takes the focus off of header images so I don't have to find them for posts that don't need them.
 
-### Markdown
+### [Try Israh](https://ezrasavard.github.io/israh-jekyll-theme)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feel free to use this theme however you like (MIT License).
 
-```markdown
-Syntax highlighted code block
+## Screenshots
 
-# Header 1
-## Header 2
-### Header 3
+![screenshot-home](https://github.com/ezrasavard/israh-jekyll-theme/blob/master/screenshot-home.png)
 
-- Bulleted
-- List
+## Installation
 
-1. Numbered
-2. List
+Just fork this repository and add your own content =).
 
-**Bold** and _Italic_ and `Code` text
+## Usage
 
-[Link](url) and ![Image](src)
-```
+Like Ezora, Israh uses a fairly minimal set of layouts and sass. Width/height values are all defined in the top of css/main.scss as variables, so you don't have to hunt too far through the SCSS to tweak things.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The navigation menu is generated from the list of links in _config.yml.
 
-### Jekyll Themes
+## Contributing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NOK8/NOK8.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ezrasavard/israh-jekyll-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-### Support or Contact
+## License
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
