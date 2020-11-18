@@ -10,10 +10,10 @@
 
 title: NOK8                          # the main title
 
-tagline: NOK8 NULL.  # it will display as the sub-title
+tagline: WangWang  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  NOK8. NULL.
+  WangWang
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://NOK8.github.io'
@@ -23,7 +23,7 @@ author: NULL                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: NOK8             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -34,7 +34,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-    - https://NOK8.com/username       # change to your github homepage
+    - https://github.com/NOK8       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
